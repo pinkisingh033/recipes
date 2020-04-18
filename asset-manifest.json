@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/recipes/static/css/main.ea14257e.chunk.css",
+    "main.js": "/recipes/static/js/main.d6089578.chunk.js",
+    "main.js.map": "/recipes/static/js/main.d6089578.chunk.js.map",
+    "runtime-main.js": "/recipes/static/js/runtime-main.5bba7e5f.js",
+    "runtime-main.js.map": "/recipes/static/js/runtime-main.5bba7e5f.js.map",
+    "static/css/2.89f067aa.chunk.css": "/recipes/static/css/2.89f067aa.chunk.css",
+    "static/js/2.363b846e.chunk.js": "/recipes/static/js/2.363b846e.chunk.js",
+    "static/js/2.363b846e.chunk.js.map": "/recipes/static/js/2.363b846e.chunk.js.map",
+    "index.html": "/recipes/index.html",
+    "precache-manifest.1efe9bf2160226d285435a0a8cc2847f.js": "/recipes/precache-manifest.1efe9bf2160226d285435a0a8cc2847f.js",
+    "service-worker.js": "/recipes/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/recipes/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.ea14257e.chunk.css.map": "/recipes/static/css/main.ea14257e.chunk.css.map",
+    "static/js/2.363b846e.chunk.js.LICENSE.txt": "/recipes/static/js/2.363b846e.chunk.js.LICENSE.txt",
+    "static/media/gajar.png": "/recipes/static/media/gajar.ad3bd94e.png",
+    "static/media/logo.svg": "/recipes/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bba7e5f.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.363b846e.chunk.js",
+    "static/css/main.ea14257e.chunk.css",
+    "static/js/main.d6089578.chunk.js"
+  ]
+}
