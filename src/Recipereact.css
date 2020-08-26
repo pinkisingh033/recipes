@@ -116,7 +116,37 @@ body {
   background-color: #4CAF50;
   color: white;
 }
-  
 
- 
-  
+.Breakfast button {
+  color: red;
+  font-size: 18px;
+}
+.Lunch button{
+  color: red;
+  font-size: 18px;
+}
+.Dinner button{
+  color: red;
+  font-size: 18px;
+}
+
+.breakfast_list{
+  color: red;
+}
+.breakfast_list{
+  cursor:alias;
+}
+.breakfast_list{
+ text-justify: inter-word;
+}
+.breakfast_list a:hover {
+  background-color: #ddd;
+  color:blue;
+}
+
+.breakfast_list a.active {
+  color:green;
+  width: 100px;
+}
+
+
